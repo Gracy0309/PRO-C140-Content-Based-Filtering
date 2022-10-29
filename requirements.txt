@@ -1,0 +1,6 @@
+numpy
+mxnet-cu90
+matplotlib
+scipy
+scikit-learn
+pandas
